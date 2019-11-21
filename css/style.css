@@ -10,6 +10,8 @@
   --sports-color: #f99500;
   --ent-color: #a66bbe;
   --tech-color: #009cff;
+  --world-color: #1900ff;
+  --business-color: #08033b;
 }
 
 * {
@@ -74,6 +76,12 @@ h6 {
 }
 .category-tech {
   background: var(--tech-color);
+}
+.category-world {
+  background: var(--world-color);
+}
+.category-business {
+  background: var(--business-color);
 }
 
 .btn {

@@ -113,6 +113,11 @@ h6 {
   opacity: 0.85;
 }
 
+.card {
+  background: #fff;
+  padding: 1rem;
+}
+
 /* navigation */
 #main-nav {
   background: #fff;
@@ -194,4 +199,11 @@ h6 {
 
 #showcase .showcase-content p {
   margin-bottom: 1rem;
+}
+
+/* Home articles */
+#home-articles .articles-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1rem;
 }

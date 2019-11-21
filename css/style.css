@@ -95,6 +95,16 @@ h6 {
   background: var(--secondary-color);
 }
 
+.btn-block {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+.btn:hover {
+  opacity: 0.85;
+}
+
 /* navigation */
 #main-nav {
   background: #fff;

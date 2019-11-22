@@ -227,6 +227,10 @@ h6 {
   margin-right: 0.5rem;
 }
 
+#main-nav .social i:hover {
+  color: rgb(91, 91, 91);
+}
+
 /* showcase */
 #showcase {
   color: #fff;

@@ -168,6 +168,17 @@ h6 {
 .p-3 {
   padding: 3rem;
 }
+
+.list li {
+  padding: 0.5rem 0;
+  border-bottom: #555 dotted 1px;
+  width: 90%;
+}
+
+.list li a:hover {
+  color: var(--secondary-color) !important;
+}
+
 /* navigation */
 #main-nav {
   background: #fff;

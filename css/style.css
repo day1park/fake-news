@@ -290,4 +290,6 @@ h6 {
   background: #444;
   grid-column: 1 / span 4;
   padding: 0.5rem;
+  text-align: center;
+  font-size: 0.75rem;
 }

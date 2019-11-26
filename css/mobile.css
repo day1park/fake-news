@@ -42,4 +42,8 @@
     border-bottom: #444 dotted 1px;
     padding-bottom: 1rem;
   }
+
+  .page-container {
+    grid-template-columns: 1fr;
+  }
 }

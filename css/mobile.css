@@ -45,5 +45,10 @@
 
   .page-container {
     grid-template-columns: 1fr;
+    text-align: center;
+  }
+
+  .page-container > *:first-child {
+    grid-row: 1;
   }
 }

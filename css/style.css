@@ -303,7 +303,7 @@ h6 {
 }
 
 #home-articles .articles-container .category:hover {
-  font-size: 0.6rem;
+  padding: 0.42rem 0.62rem;
 }
 
 #article .meta {

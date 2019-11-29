@@ -302,6 +302,10 @@ h6 {
   grid-column: 2 / span 2;
 }
 
+#home-articles .articles-container .category:hover {
+  font-size: 0.6rem;
+}
+
 #article .meta {
   display: flex;
   justify-content: space-between;
